@@ -1,0 +1,109 @@
+.navbar {
+	box-shadow:2px 2px 5px #000;	
+}
+
+.navbar .nav-item .nav-link{
+	color:#999;		
+}
+
+/*cabeera*/
+
+.main-header{
+	position:relative;
+	background:url(../img/fondo.jpg);
+	background-size:cover;
+	min-height:600px;
+}
+
+.background-overlay{
+	position:absolute;
+	background:rgba(83, 92, 104,.7);
+	top:0;
+	left:0;
+	width:100%;
+	height:100%;
+}
+
+#presentacion{
+	background:rgba(19, 15, 64,.9);
+	padding:20px;
+	border-radius:20px;
+	
+}
+
+#imagen{
+	min-width:10%;
+	max-width:20%;
+	width:25%;
+	margin:auto;	
+}
+
+/*Habilidades*/
+
+.progress{
+	margin-bottom:30px;
+	
+}
+
+section{
+	background-color: #7f7c80;
+	background-image: url("https://www.transparenttextures.com/patterns/brick-wall.png");
+	padding-bottom:20px;
+	padding-top:30px;
+	
+}
+
+#habilidades{
+	background:rgba(44, 62, 80,1.0);
+	padding:50px;
+	width:60%;
+	margin:auto;
+	border-radius:20px;
+}
+
+.container h2{
+	font-family:Tahoma, Geneva, sans-serif;
+	color:background:rgba(19, 15, 64,1.0);
+	font-size:50px;
+	margin:auto;
+	margin-bottom:25px;
+	text-align:center;
+	
+}
+
+.container h4{
+	color:#FFF;
+	
+}
+
+/*Portafolio*/
+
+.card-deck{
+	width:75%;
+	margin:auto;		
+}
+
+#portafolio{
+	background-color: #7f7c80;
+    background-image: url("https://www.transparenttextures.com/patterns/carbon-fibre.png");
+	padding:40px;
+	
+}
+
+#portafolio h2{
+	font-family:Tahoma, Geneva, sans-serif;
+	color:white;
+	font-size:50px;
+	margin:auto;
+	margin-bottom:25px;
+	text-align:center;
+}
+
+
+/*Foorte*/
+
+footer{
+	background-color:rgba(51,51,51,1);
+}
+
+
